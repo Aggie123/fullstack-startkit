@@ -1,0 +1,6 @@
+[submodule "fullstack-frontend"]
+	path = fullstack-frontend
+	url = git@github.com:Aggie123/fullstack-frontend.git
+[submodule "fullstack-backend"]
+	path = fullstack-backend
+	url = git@github.com:Aggie123/fullstack-backend.git
