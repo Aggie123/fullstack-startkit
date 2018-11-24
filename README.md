@@ -1,5 +1,5 @@
 ##TODO
-eslint
+eslint + webpack +  es6
 ---
 
 ##Github Url:
