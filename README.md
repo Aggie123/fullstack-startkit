@@ -1,5 +1,7 @@
 ##TODO
-eslint +  es6
+eslint
+babel
+jest
 ---
 
 ##Github Url:
